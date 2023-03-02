@@ -1,0 +1,30 @@
+.jumbotron {
+  background-image: url('../../assets/img/bosque.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: white;
+  text-shadow: 0 0 5px black;
+  width: 100%;
+  height: 500px;
+}
+
+.jumbotron h1 {
+  font-size: 4rem;
+}
+
+.jumbotron p {
+  font-size: 1.5rem;
+}
+
+#fotodeperfil{
+  position: absolute;
+
+  border-radius: 100%;
+  box-shadow:3px 3px 3px grey;
+  left:1%;
+}
+
+.bold-text {
+  font-weight: bold;
+}

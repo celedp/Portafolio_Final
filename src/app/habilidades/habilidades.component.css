@@ -1,0 +1,17 @@
+.progress-bar {
+  background-color: #6c757d;
+}
+
+.progress-bar:hover {
+  background-color: #28a745;
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
